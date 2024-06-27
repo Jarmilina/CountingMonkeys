@@ -1,0 +1,14 @@
+C:\Users\Jarmila\source\repos\CountingMonkeys\bin\Debug\net8.0\CountingMonkeys.exe
+C:\Users\Jarmila\source\repos\CountingMonkeys\bin\Debug\net8.0\CountingMonkeys.deps.json
+C:\Users\Jarmila\source\repos\CountingMonkeys\bin\Debug\net8.0\CountingMonkeys.runtimeconfig.json
+C:\Users\Jarmila\source\repos\CountingMonkeys\bin\Debug\net8.0\CountingMonkeys.dll
+C:\Users\Jarmila\source\repos\CountingMonkeys\bin\Debug\net8.0\CountingMonkeys.pdb
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.AssemblyInfoInputs.cache
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.AssemblyInfo.cs
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.csproj.CoreCompileInputs.cache
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.dll
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\refint\CountingMonkeys.dll
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.pdb
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\CountingMonkeys.genruntimeconfig.cache
+C:\Users\Jarmila\source\repos\CountingMonkeys\obj\Debug\net8.0\ref\CountingMonkeys.dll
