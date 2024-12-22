@@ -15,28 +15,12 @@
       "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:karlicka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\tasksubstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:tasksubstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\itaskcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:itaskcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +41,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|c:\\users\\jarmila\\source\\repos\\countingmonkeys\\countingmonkeys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9C2BE64F-014B-4FDD-B37F-9F12178217BB}|CountingMonkeys.csproj|solutionrelative:countingmonkeys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\ITaskcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITaskcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\TaskSubstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskSubstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Task.cs",
               "RelativeDocumentMoniker": "Task.cs",
@@ -83,19 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T19:09:46.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -107,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Validator.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Validator.cs",
               "RelativeDocumentMoniker": "Validator.cs",
@@ -143,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ITaskcs.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\ITaskcs.cs",
               "RelativeDocumentMoniker": "ITaskcs.cs",
@@ -155,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Interface1.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Interface1.cs",
               "RelativeDocumentMoniker": "Interface1.cs",
@@ -167,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "TaskSubstraction.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\TaskSubstraction.cs",
               "RelativeDocumentMoniker": "TaskSubstraction.cs",
@@ -185,14 +169,14 @@
               "RelativeDocumentMoniker": "Johanka.cs",
               "ToolTip": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Johanka.cs",
               "RelativeToolTip": "Johanka.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T22:00:09.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "TaskAddition.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\TaskAddition.cs",
               "RelativeDocumentMoniker": "TaskAddition.cs",
@@ -204,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -216,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "TaskDivision.cs",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\TaskDivision.cs",
               "RelativeDocumentMoniker": "TaskDivision.cs",
@@ -228,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "CountingMonkeys.csproj",
               "DocumentMoniker": "C:\\Users\\Jarmila\\source\\repos\\CountingMonkeys\\CountingMonkeys.csproj",
               "RelativeDocumentMoniker": "CountingMonkeys.csproj",

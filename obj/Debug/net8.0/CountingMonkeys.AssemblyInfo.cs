@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountingMonkeys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2e0b17068a9ed17bf130b488bea28002df9bad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountingMonkeys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountingMonkeys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
